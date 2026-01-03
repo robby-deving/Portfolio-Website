@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "e-LegTas",
+        "description": "A disaster management tool for efficient resource allocation and real-time communication.",
+        "thumbnails": {
+            "thumbnail1": "/e-legtas.png",
+            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail3": "/e-legtas.png"
+        }
+    },
+    {
+        "id": 2,
+        "title": "e-LegTas",
+        "description": "A disaster management tool for efficient resource allocation and real-time communication.",
+        "thumbnails": {
+            "thumbnail1": "/elegtas-thumb1.png",
+            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail3": "/elegtas-thumb3.png"
+        }
+    }
+]
