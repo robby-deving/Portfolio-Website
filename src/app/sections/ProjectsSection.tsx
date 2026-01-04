@@ -12,6 +12,7 @@ interface Project {
     thumbnail2: string;
     thumbnail3: string;
   };
+  link: string;
 }
 
 // Add type for props
@@ -60,10 +61,12 @@ export default function ProjectsSection({ projects = [] }: ProjectsSectionProps)
                     </p>
                   </div>
                 </div>
-                <a
-                  href="#"
+             <a
+                  href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="px-6 py-3 border border-gray-400 rounded-full hover:bg-white hover:text-black transition-all duration-500 flex items-center gap-3 text-lg font-medium whitespace-nowrap"
-                >
+                >   
                   Explore Project
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

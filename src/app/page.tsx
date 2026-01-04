@@ -25,7 +25,7 @@ export default async function Home() {
         <ProjectsSection projects={projects} />
       </section>
 
-      <section id="contact" className="py-20 px-8 sm:px-20">
+      <section id="contact" className="min-h-screen px-8 sm:px-20 flex justify-center items-center">
         <ContactSection />
       </section>
     </div>

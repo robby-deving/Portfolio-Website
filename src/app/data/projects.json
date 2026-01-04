@@ -7,7 +7,8 @@
             "thumbnail1": "/e-legtas1.png",
             "thumbnail2": "/e-legtas2.png",
             "thumbnail3": "/e-legtas.png"
-        }
+        },
+        "link": "https://www.e-legtas.tech/"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
             "thumbnail1": "/elegtas-thumb1.png",
             "thumbnail2": "/elegtas-thumb2.png",
             "thumbnail3": "/elegtas-thumb3.png"
-        }
+        },
+        "link": "https://ali-tap-tap.vercel.app/"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
             "thumbnail1": "/elegtas-thumb1.png",
             "thumbnail2": "/elegtas-thumb2.png",
             "thumbnail3": "/elegtas-thumb3.png"
-        }
+        },
+        "link": "https://github.com/meowfu0/SiyenShop"
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
             "thumbnail1": "/elegtas-thumb1.png",
             "thumbnail2": "/elegtas-thumb2.png",
             "thumbnail3": "/elegtas-thumb3.png"
-        }
+        },
+        "link": "https://github.com/robby-deving/Masid"
     },
     {
         "id": 5,
@@ -47,6 +51,7 @@
             "thumbnail1": "/elegtas-thumb1.png",
             "thumbnail2": "/elegtas-thumb2.png",
             "thumbnail3": "/elegtas-thumb3.png"
-        }
+        },
+        "link": "https://airdrop-checker-black.vercel.app/"
     }
 ]
