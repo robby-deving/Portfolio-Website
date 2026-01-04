@@ -4,15 +4,45 @@
         "title": "e-LegTas",
         "description": "A disaster management tool for efficient resource allocation and real-time communication.",
         "thumbnails": {
-            "thumbnail1": "/e-legtas.png",
-            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail1": "/e-legtas1.png",
+            "thumbnail2": "/e-legtas2.png",
             "thumbnail3": "/e-legtas.png"
         }
     },
     {
         "id": 2,
-        "title": "e-LegTas",
-        "description": "A disaster management tool for efficient resource allocation and real-time communication.",
+        "title": "AliTapTap",
+        "description": "An E-Commerce Mobile Application for NFC Business Cards.    ",
+        "thumbnails": {
+            "thumbnail1": "/elegtas-thumb1.png",
+            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail3": "/elegtas-thumb3.png"
+        }
+    },
+    {
+        "id": 3,
+        "title": "SiyenShop",
+        "description": "SiyenSHOP: An Integrated E-Commerce Platform for Merchandise Shops Within Bicol University College of Science.    ",
+        "thumbnails": {
+            "thumbnail1": "/elegtas-thumb1.png",
+            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail3": "/elegtas-thumb3.png"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Masid",
+        "description": " A Real-Time Earthquake Monitoring and Alert System is a disaster preparedness platform developed for Open iT Codefest 2025 by Team Snack Overflow.",
+        "thumbnails": {
+            "thumbnail1": "/elegtas-thumb1.png",
+            "thumbnail2": "/elegtas-thumb2.png",
+            "thumbnail3": "/elegtas-thumb3.png"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Airdrop Checker",
+        "description": " A tool for checking airdrops on the solanablockchain.",
         "thumbnails": {
             "thumbnail1": "/elegtas-thumb1.png",
             "thumbnail2": "/elegtas-thumb2.png",
